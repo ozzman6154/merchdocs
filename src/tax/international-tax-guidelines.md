@@ -47,7 +47,7 @@ title: International Tax Guidelines
 |--- |--- |
 |Load catalog prices|Excluding tax|
 |FPT|Yes, including FPT, description, and apply tax to FPT.|
-|Tax based on|Shipping origin|
+|Tax based on|Shipping address|
 |Tax Calculation|On total|
 |Tax shipping?|Yes|
 |Apply Discount|Before tax|
